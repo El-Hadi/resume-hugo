@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = http://git@github.com/El-Hadi/El-Hadi.github.io.git
+	branch = main
